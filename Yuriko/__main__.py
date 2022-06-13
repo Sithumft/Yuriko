@@ -84,8 +84,8 @@ yumi_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
 PM_START_TEXT = """
 *👋 Hello {}*
 
-Hey There My Name Is *YumiXBot* [I](https://telegra.ph/file/fdfea288dccdeba59c9a4.jpg) Am Here To Help You Manage Your Groups!
-Hit /Help To Find Out More About How To Use Me To My Full Potential!
+Hey there! My name is Shadow.
+I can help manage your groups with useful features, feel free to add me to your groups!
 ────────────────────────
 乂 Ping Time: {}
 乂 {} User, Database {} Chats.
